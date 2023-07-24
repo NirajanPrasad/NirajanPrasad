@@ -7,4 +7,4 @@ opportunities to expand my knowledge and skills. I believe that the best solutio
 - 🌱 I’m currently learning <b>Next.js 13</b>
 - 👯 I’m looking to collaborate on <b>Creative Development Projects</b>
 - 💬 Ask me about <b>Creative Web Development</b>
-- ⚡ Fun fact:<b>It's not a feature it's a bug</b>
+- ⚡ Fun fact:<b> It's not a feature it's a bug</b>
